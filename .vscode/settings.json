@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "data_process.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "data_io.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
